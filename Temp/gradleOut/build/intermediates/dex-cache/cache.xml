@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kib9516/Documents/Research/Personal Research/Haptics Grant Projects/BunnyBalance-KBR/BunnyBalance/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="db401f4021204ed29e821e60c9f18d97be57ff54">
+        <dex dex="/Users/kib9516/Documents/Research/Personal Research/Haptics Grant Projects/BunnyBalance-KBR/BunnyBalance/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_e9433b120921ff9a71e4d92377488ac57df5773b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kib9516/.android/build-cache/73d40a442105641180e73528e81a14359531576a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="428c881937d1e18c35dc333853701c0a91e2a8eb">
+        <dex dex="/Users/kib9516/Documents/Research/Personal Research/Haptics Grant Projects/BunnyBalance-KBR/BunnyBalance/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_69f10f8338336e76a56895a3067d4a7fb8cd454a.jar" />
+    </item>
+
+</items>
